@@ -25,7 +25,7 @@ Otherwise, if users want to try plink format, the command line is:
 
 `java -jar kTWAS.jar kTWAS -format plink -input_genotype EXAMPLE/PLINK_FORMAT/example.tped -input_phenotype EXAMPLE/PLINK_FORMAT/example.tfam -input_phenotype_column 6 -input_phenotype_type binary -en_info_path ElasticNet_DB/ElasticNet_Whole_Blood.txt -gene ENSG00000250334.5 -plink /PATH/TO/plink -Rscript /PATH/TO/Rscript -output_folder /PATH/TO/OUT_FOLDER`
 
-More description and benchmarking of kTWAS can be found in our publication:https://www.biorxiv.org/content/10.1101/2020.06.29.177121v1.full.pdf
+The kTWAS.result file under /PATH/TO/OUT_FOLDER tells the users the result information. More description and benchmarking of kTWAS can be found in our publication:https://www.biorxiv.org/content/10.1101/2020.06.29.177121v1.full.pdf
 
 ### Citations
 If you use the elastic database in analysis, please cite:
@@ -33,7 +33,6 @@ If you use the elastic database in analysis, please cite:
 "A gene-based association method for mapping traits using reference transcriptome data", Gamazon et al, 2015, Nature Genetics
 "Exploring the phenotypic consequences of tissue specific gene expression variation inferred from GWAS summary statistics", Barbeira et al, 2018, Nature Communications
 It it asked by the PrediXcan authors, please refer to: http://predictdb.org/
-
 
 ### Copyright License (MIT Open Source)
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
