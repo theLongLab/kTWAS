@@ -7,7 +7,7 @@ The kTWAS program leverages TWAS-like feature selection (Elastic Net weights) fo
 ### Installation
 kTWAS is a batteries-included JAR executable. All needed external jar packages are included in the downloadable, kTWAS.jar. To download all necessary files, users can use the command 
 `git clone https://github.com/theLongLab/kTWAS.git`
-As we used an R package SKAT, the users have to install R and SKAT (https://cran.r-project.org/web/packages/SKAT/index.html. The versions of R and R package L0Learn that we have used on our platform are: version 2.0.0 for SKAT and version 3.5.1 for R. Other versions are not tested, although they may work. Users are also expected to have java (version: 1.8) on their platform. plink (v1.07, https://zzz.bwh.harvard.edu/plink/download.shtml) should also be installed.
+As we used an R package SKAT, the users have to install R and SKAT (https://cran.r-project.org/web/packages/SKAT/index.html.) The versions of R and R package L0Learn that we have used on our platform are: version 2.0.0 for SKAT and version 3.5.1 for R. Other versions are not tested, although they may work. Users are also expected to have java (version: 1.8) on their platform. plink (v1.07, https://zzz.bwh.harvard.edu/plink/download.shtml) should also be installed.
 
 Usage:
 
