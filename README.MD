@@ -1,6 +1,7 @@
 
 ## Users’ Manual of kTWAS (Version 1.0.0)
 ### Preamble
+####kTWAS: integrating kernel-machine with transcriptome-wide association studies improves statistical power and reveals novel genes
 
 The kTWAS program leverages TWAS-like feature selection (Elastic Net weights) followed by a SKAT-like kernel-based score test, to combine advantages from both approaches.<br><br>
 <img src="https://github.com/theLongLab/FIGS/blob/master/kTWAS.png" width="800" height="700" alt="kTWAS"/><br/>
