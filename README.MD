@@ -35,8 +35,8 @@ If you use the elastic database in analysis, please cite:
 It it asked by the PrediXcan authors, please refer to: http://predictdb.org/
 
 ### Contacts
-Chen Cao, chen.cao@ucalgary.ca
-Quan Long, quan.long@ucalgary.ca
+Chen Cao, chen.cao@ucalgary.ca<br>
+Quan Long, quan.long@ucalgary.ca<br>
 
 ### Copyright License (MIT Open Source)
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
