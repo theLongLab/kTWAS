@@ -28,7 +28,7 @@ Otherwise, if users want to try plink format, the command line is:
 Please note that, to consistent with plink format, the phenotype is set to missing (normally represented by -9) if unspecified. It must be a numeric value. Case/control phenotypes are normally coded as control = 1, case = 2.The kTWAS.result under /PATH/TO/OUT_FOLDER is the final output file by kTWAS. More description and benchmarking of kTWAS can be found in our publication:https://www.biorxiv.org/content/10.1101/2020.06.29.177121v1.full.pdf
 
 ### Citations
-If you use the elastic database in analysis, please cite:<br>
+If you use the elastic net database in analysis, please cite:<br>
 "The GTEx Consortium atlas of genetic regulatory effects across human tissues", Aguet et al, 2019, preprint<br>
 "A gene-based association method for mapping traits using reference transcriptome data", Gamazon et al, 2015, Nature Genetics<br>
 "Exploring the phenotypic consequences of tissue specific gene expression variation inferred from GWAS summary statistics", Barbeira et al, 2018, Nature Communications<br>
