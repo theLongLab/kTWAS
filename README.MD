@@ -3,7 +3,7 @@
 ### Preamble
 
 The kTWAS program leverages TWAS-like feature selection (Elastic Net weights) followed by a SKAT-like kernel-based score test, to combine advantages from both approaches.<br><br>
-<img src="https://github.com/theLongLab/FIGS/blob/master/kTWAS.png" width="600" height="700" alt="kTWAS"/><br/>
+<img src="https://github.com/theLongLab/FIGS/blob/master/kTWAS.png" width="800" height="700" alt="kTWAS"/><br/>
 
 ### Installation
 kTWAS is a batteries-included JAR executable. All needed external jar packages are included in the downloadable, kTWAS.jar. To download all necessary files, users can use the command 
