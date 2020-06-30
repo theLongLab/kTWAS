@@ -11,7 +11,12 @@ As we used an R package SKAT, the users have to install R and SKAT (https://cran
 
 Usage:
 
-`java -jar PoolHapX.jar kTWAS -format CSV|PLINK -input_genotype INPUT_GENOTYPE_FILE -input_phenotype INPUT_PHENOTYPE_FILE -input_phenotype_column INPUT_PHENOTYPE_COLUMN_START:2-en_info_path INPUT_ELASTICNET_INFORMATION_FILE -gene INPUT_ENSEMBL_GENE_ID -output_folder OUTPUT_FOLDER_PATH`
+`java -jar PoolHapX.jar kTWAS -format CSV|PLINK -input_genotype INPUT_GENOTYPE_FILE -input_phenotype INPUT_PHENOTYPE_FILE -input_phenotype_column INPUT_PHENOTYPE_COLUMN:2 -en_info_path INPUT_ELASTICNET_INFORMATION_FILE -gene INPUT_ENSEMBL_GENE_ID -output_folder OUTPUT_FOLDER_PATH`
+
+Installation and a simple example are described below. Users can get the final p-value result under the folder: OUTPUT_FOLDER_PATH. 
+
+ScriptForPHX.jar generates all commands required by PoolHapX in a script so users can run the script easily. More description and benchmarking of PoolHapX can be found in our publication:https://www.biorxiv.org/content/10.1101/2020.03.29.014704v2
+
 
 
 ### Copyright License (MIT Open Source)
