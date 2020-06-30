@@ -15,8 +15,18 @@ Usage:
 
 Installation and a simple example are described below. Users can get the final p-value result under the folder: OUTPUT_FOLDER_PATH. 
 
-ScriptForPHX.jar generates all commands required by PoolHapX in a script so users can run the script easily. More description and benchmarking of PoolHapX can be found in our publication:https://www.biorxiv.org/content/10.1101/2020.03.29.014704v2
+You may try our toy example after "git clone". 
+For csv format, the command line is:
 
+
+More description and benchmarking of kTWAS can be found in our publication:https://www.biorxiv.org/content/10.1101/2020.06.29.177121v1.full.pdf
+
+### Citations
+If you use the elastic database in analysis, please cite:
+"The GTEx Consortium atlas of genetic regulatory effects across human tissues", Aguet et al, 2019, preprint
+"A gene-based association method for mapping traits using reference transcriptome data", Gamazon et al, 2015, Nature Genetics
+"Exploring the phenotypic consequences of tissue specific gene expression variation inferred from GWAS summary statistics", Barbeira et al, 2018, Nature Communications
+It it asked by the PrediXcan authors, please refer to: http://predictdb.org/
 
 
 ### Copyright License (MIT Open Source)
